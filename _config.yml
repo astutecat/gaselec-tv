@@ -1,0 +1,4 @@
+name: GAS
+description: Test of new design for GAS web site
+paginate: 10
+baseurl: '/gaselec-tv'
